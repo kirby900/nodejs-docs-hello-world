@@ -10,6 +10,8 @@ const server = http.createServer((request, response) => {
         </head>
         <body>
             <h3>Greetings, earthling!</h3>
+            <p>This is a simple, static page.</p>
+            <p>It has a charming simplicity, don't you agree?</p>
         </body>
     </html>
     `);
